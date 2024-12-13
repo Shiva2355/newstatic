@@ -150,7 +150,7 @@ class App extends Component {
         <div>
           <div>
             <h1 className="project-item-title-main ">Projects</h1>
-            <p className="project-item-description">
+            <p className="project-item-description2">
               Your skills and achievements showcase your strengths and
               abilities. Speak about any new skills or software you learnt to
               perform the project responsibilities.
