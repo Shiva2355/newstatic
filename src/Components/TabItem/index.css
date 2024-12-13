@@ -1,0 +1,63 @@
+.tab-item-container {
+    padding-right: 4px;
+  }
+  
+  @media screen and (min-width: 992px) {
+    .tab-item-container {
+      padding-right: 24px;
+    }
+  }
+  .card {
+    margin: 20px;
+    border-radius: 10px;
+    width: 250px;
+    border-color: #f0eded;
+    border-style: solid;
+    border-width: 1px;
+  }
+  .img {
+    height: 150px;
+    width: 250px;
+  }
+  .description-tabItem {
+    font-family: 'Roboto';
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 300;
+    margin-bottom: 0;
+    color: #7b8794;
+    padding-bottom: 10px;
+  }
+  .heading-Item {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 36px;
+    color: #183b56;
+    margin: 0;
+    padding: 10px;
+  }
+  
+  .tab-btn {
+    font-family: 'Roboto';
+    color: #9aa5b1;
+    font-weight: 500;
+    font-size: 16px;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  @media screen and (min-width: 992px) {
+    .tab-btn {
+      font-size: 24px;
+    }
+  }
+  
+  .active-tab-btn {
+    border-bottom: 2px solid #0b69ff;
+    color: #3e4c59;
+  }
+  

@@ -1,0 +1,63 @@
+.project-item-container {
+    width: 339px;
+    background: #ffffff;
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.06);
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+  }
+  
+  .project-item-image {
+    width: 100%;
+    border: 1px solid transparent;
+    border-radius: 5px;
+  }
+  
+  .project-item-details-container {
+    padding: 32px 24px 32px 24px;
+  }
+  
+  .project-item-title {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #183b56;
+    margin: 0;
+    padding: 10px;
+  }
+  .project-item-title-main {
+    font-family: 'Roboto';
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+    color: #183b56;
+    margin: 0;
+    padding: 10px;
+  }
+  
+  .project-item-description {
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-family: 'Roboto';
+    font-size: 18px;
+    line-height: 32px;
+    margin-top: 12px;
+    margin-bottom: 0;
+    color: #7b8794;
+  }
+  
+  .CenterStates {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
