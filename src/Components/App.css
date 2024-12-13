@@ -88,7 +88,7 @@ html {
 }
 @media screen and (max-width:650px){
   project-item-description2{
-    .project-item-description {
+    
     display: flex;
     text-align: center;
     flex-direction: row;
@@ -101,7 +101,7 @@ html {
     margin-top: 12px;
     margin-bottom: 0;
     color: #7b8794;
-  }
+  
   }
 }
 .project-item-description2 {
